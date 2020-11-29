@@ -2,4 +2,4 @@
 
 This repository contains maps builded by GIS tools such as QGIS, FME...
 
-Those maps are maded and based on existing data and reality in Malagasy country (Madagascar). There are many sources of data that i'm using and the most important is OpenStreetMap.
+Those maps are based on existing data and reality in Malagasy country (Madagascar). There are many sources of data that i'm using and the most important is OpenStreetMap.
